@@ -105,7 +105,3 @@ Pickle (for model serialization)
 
 # Conclusion
 This project provides a user-friendly interface for analyzing and predicting employee performance using machine learning. The XGBoost model, chosen for its high accuracy, is integrated into a Flask web application, allowing users to input data and receive predictions efficiently.
-
-
-
-shuffle the data of this readme.md because it is copied from somwhere so make it unique
