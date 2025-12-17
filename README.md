@@ -5,7 +5,7 @@ This project aims to analyze and predict employee performance based on various f
 
 # Installation and Setup
 Clone the repository:
-git clone [https://github.com/your-repo/employee_performance_analysis.git](https://github.com/abhinavomer/Employee_Performance_Analysis/edit/main/README.md)
+git clone [https://github.com/your-repo/employee_performance_analysis.git](https://github.com/arpanrai223/machine-learning-approach-for-employee-performance-prediction-project/README.md)
 cd employee_performance_analysis
 Create and activate a virtual environment:
 
@@ -105,7 +105,3 @@ Pickle (for model serialization)
 
 # Conclusion
 This project provides a user-friendly interface for analyzing and predicting employee performance using machine learning. The XGBoost model, chosen for its high accuracy, is integrated into a Flask web application, allowing users to input data and receive predictions efficiently.
-
-
-
-shuffle the data of this readme.md because it is copied from somwhere so make it unique
