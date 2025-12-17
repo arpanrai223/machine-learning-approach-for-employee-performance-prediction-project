@@ -5,7 +5,7 @@ This project aims to analyze and predict employee performance based on various f
 
 # Installation and Setup
 Clone the repository:
-git clone [https://github.com/your-repo/employee_performance_analysis.git](https://github.com/abhinavomer/Employee_Performance_Analysis/edit/main/README.md)
+git clone [https://github.com/your-repo/employee_performance_analysis.git](https://github.com/arpanrai223/machine-learning-approach-for-employee-performance-prediction-project/edit/main/EmployeePerformance_Prediction_SmartInternz-main/README.md)
 cd employee_performance_analysis
 Create and activate a virtual environment:
 
