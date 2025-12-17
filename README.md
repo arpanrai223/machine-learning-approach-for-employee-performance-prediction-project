@@ -67,15 +67,17 @@ Custom styles are defined in the styles.css file and included in the base.html t
 # Project Structure
 employee_performance_analysis/
 │
-├── app.py                  # Main Flask application
-├── model.h5                # Serialized machine learning model
-├── templates/              # HTML templates
-│   ├── base.html           # Base template
-│   ├── home.html           # Home page
-│   ├── about.html          # About page
-│   ├── predict.html        # Prediction form
-│   ├── submit.html         # Prediction result
-└── README.md               # Project documentation
+├── app.py                  # Flask application entry point
+├── model.h5                # Trained ML model
+├── templates/
+│   ├── base.html
+│   ├── home.html
+│   ├── about.html
+│   ├── predict.html
+│   └── submit.html
+├── static/
+│   └── styles.css
+└── README.md
 
 # Model Training
 The model was trained using the XGBoost algorithm, which is known for its high performance and accuracy. The data was split into training and testing sets, and various hyperparameters were tuned to optimize the model's performance.
